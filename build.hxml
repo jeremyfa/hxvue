@@ -1,0 +1,4 @@
+-main Main
+-lib hxnodejs
+-js main.js
+--no-output
